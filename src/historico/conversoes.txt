@@ -1,0 +1,10 @@
+
+[
+  {
+    "data": "2024-04-24 15:40:36",
+    "moeda_destino": "BRL",
+    "valor_destino": 25.84,
+    "moeda_origem": "USD",
+    "valor_origem": 5.0
+  }
+]
